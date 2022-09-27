@@ -1,0 +1,26 @@
+.images{
+    height: 300px;
+    width: 300px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 3px;
+}
+
+#melon-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.container-fluid{
+    display: flexbox;
+}
+.logo_img{
+    max-width: 50px;
+    max-height: 50px;
+}
+.welcome h6{
+    color: rgba(13, 158, 78, 0.822);
+    font-size: 50px;
+}
+.welcome h5{
+    color: rgba(9, 119, 59, 0.979);
+}
